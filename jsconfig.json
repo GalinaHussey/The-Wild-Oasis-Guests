@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./*"]
+    }
+  },
+  "include": ["**/*.js", "**/*.jsx", "**/*.ts", "**/*.tsx"]
+}
+
+// {
+//   "compilerOptions": {
+//     "baseUrl": ".",
+//     "paths": {
+//       "@components/*": ["_components/*"],
+//       "@utils/*": ["utils/*"],
+//       "@styles/*": ["styles/*"]
+//     }
+//   },
+//   "include": ["**/*.js", "**/*.jsx", "**/*.ts", "**/*.tsx"]
+// }
+
+// {
+//   "compilerOptions": {
+//     "paths": {
+//       "@/*": ["./*"]
+//     }
+//   }
+// }
